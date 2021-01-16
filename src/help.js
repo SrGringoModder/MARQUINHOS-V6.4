@@ -3,14 +3,14 @@ consthelp=(prefix)=>{
 ╔═════════════════
 ║「🌹𝐌𝐀𝐑𝐐𝐔𝐈𝐍𝐇𝐎𝐒 𝐁𝐎𝐓🌹」
 ╠═════════════════
-║╭────⊱◈ INFO ◈⊰─────»
+║╭───⊱◈ INFO ◈⊰────»
 ║│
 ║├─➥ Prefix:「${prefix}」
 ║├─➥ Criador : Sr Gringo Wa
 ║│
 ║╰─────────────── 
 ╠═════════════════
-║╭────⊱◈ SOBRE ◈⊰─────»
+║╭───⊱◈ SOBRE ◈⊰────»
 ║│
 ║├─➥ ${prefix}info
 ║├─➥ ${prefix}blocklist
@@ -20,7 +20,7 @@ consthelp=(prefix)=>{
 ║│
 ║╰─────────────── 
 ╠═════════════════
-║╭────⊱◈ CRIAR ◈⊰────»
+║╭───⊱◈ CRIAR ◈⊰───»
 ║│
 ║├─➥ ${prefix}sticker
 ║├─➥ ${prefix}stickergif
@@ -58,7 +58,7 @@ consthelp=(prefix)=>{
 ║│
 ║╰─────────────── 
 ╠═════════════════
-║╭────⊱◈ MEDIA ◈⊰────»
+║╭────⊱◈ MEDIA ◈⊰───»
 ║│
 ║├─➥ ${prefix}trendtwit
 ║├─➥ ${prefix}randomkpop
@@ -66,7 +66,7 @@ consthelp=(prefix)=>{
 ║│
 ║╰─────────────── 
 ╠═════════════════
-║╭──⊱◈ EDUCAÇÃO ◈⊰────»
+║╭──⊱◈ EDUCAÇÃO ◈⊰───»
 ║│
 ║├─➥ ${prefix}wiki
 ║├─➥ ${prefix}wikien
@@ -96,14 +96,14 @@ consthelp=(prefix)=>{
 ║│
 ║╰─────────────── 
 ╠═════════════════
-║╭────⊱◈ MEME ◈⊰─────»
+║╭────⊱◈ MEME ◈⊰────»
 ║│
 ║├─➥ ${prefix}meme
 ║├─➥ ${prefix}memeindo
 ║│
 ║╰─────────────── 
 ╠═════════════════
-║╭───⊱◈ GRUPO ◈⊰─────»
+║╭───⊱◈ GRUPO ◈⊰────»
 ║│
 ║├─➥ ${prefix}opengc
 ║├─➥ ${prefix}closegc
@@ -136,27 +136,27 @@ consthelp=(prefix)=>{
 ║│
 ║╰─────────────── 
 ╠═════════════════
-║╭────⊱◈ MÚSICA ◈⊰────»
+║╭───⊱◈ MÚSICA ◈⊰───»
 ║│
 ║├─➥ ${prefix}lirik
 ║├─➥ ${prefix}chord
 ║│
 ║╰─────────────── 
 ╠═════════════════
-║╭────⊱◈ ISLAMISMO ◈⊰─────»
+║╭──⊱◈ ISLAMISMO ◈⊰───»
 ║│
 ║├─➥ ${prefix}quran
 ║│
 ║╰─────────────── 
 ╠═════════════════
-║╭────⊱◈ STALK ◈⊰─────»
+║╭───⊱◈ STALK ◈⊰────»
 ║│
 ║├─➥ ${prefix}tiktokstalk
 ║├─➥ ${prefix}igstalk
 ║│
 ║╰─────────────── 
 ╠═════════════════
-║╭────⊱◈ WIBU ◈⊰─────»
+║╭────⊱◈ WIBU ◈⊰────»
 ║│
 ║├─➥ ${prefix}neonime
 ║├─➥ ${prefix}pokemon
@@ -170,7 +170,7 @@ consthelp=(prefix)=>{
 ║│
 ║╰────────────── 
 ╠═════════════════
-║╭────⊱◈ 18+ ◈⊰─────»
+║╭────⊱◈ 18+ ◈⊰────»
 ║│
 ║├─➥ ${prefix}randomhentai
 ║├─➥ ${prefix}nsfwtrap
@@ -178,7 +178,7 @@ consthelp=(prefix)=>{
 ║│
 ║╰────────────── 
 ╠═════════════════
-║╭────⊱◈ DIVERSÃO ◈⊰─────»
+║╭──⊱◈ DIVERSÃO ◈⊰───»
 ║│
 ║├─➥ ${prefix}alay
 ║├─➥ ${prefix}gantengcek
@@ -205,7 +205,7 @@ consthelp=(prefix)=>{
 ║│
 ║╰─────────────── 
 ╠═════════════════
-║╭────⊱◈ OWNER ◈⊰────»
+║╭───⊱◈ OWNER ◈⊰───»
 ║│
 ║├─➥ ${prefix}prefix
 ║├─➥ ${prefix}block
@@ -216,7 +216,7 @@ consthelp=(prefix)=>{
 ║│
 ║╰────────────── 
 ╠═════════════════
-║╭───⊱◈ OUTROS ◈⊰─────»
+║╭───⊱◈ OUTROS ◈⊰────»
 ║│
 ║├─➥ ${prefix}send
 ║├─➥ ${prefix}wame
