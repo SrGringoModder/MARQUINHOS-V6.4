@@ -1,11 +1,11 @@
 consthelp=(prefix)=>{
 	return`
 ╔═════════════════
-║「Marquinhos Bot」
+║「MARQUINHOS BOT」
 ╠═════════════════
 ║╭────⊱◈ INFO ◈⊰─────»
 ║├─➣ Prefix:「${prefix}」
-║├─➣ Criador : Sr Gringo Mods
+║├─➣ Criador: Sr Gringo Mods
 ║│
 ║╰─────────────── 
 ╠═════════════════
