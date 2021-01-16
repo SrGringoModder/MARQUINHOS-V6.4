@@ -4,6 +4,7 @@ consthelp=(prefix)=>{
 ║「MARQUINHOS BOT」
 ╠═════════════════
 ║╭────⊱◈ INFO ◈⊰─────»
+║│
 ║├─➣ Prefix:「${prefix}」
 ║├─➣ Criador: Sr Gringo Mods
 ║│
